@@ -20,6 +20,6 @@ Back End
 
 -npx tsc
 
--npx ts-node src/index.ts
+-npx ts-node index.ts
 
 
